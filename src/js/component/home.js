@@ -134,11 +134,7 @@ export class Home extends React.Component {
 											{" "}
 										</i>
 									</a>
-									<a className="gplus-ic">
-										<i className="fab fa-google-plus-g fa-lg white-text mr-md-5 mr-3 fa-2x">
-											{" "}
-										</i>
-									</a>
+
 									<a className="li-ic">
 										<i className="fab fa-linkedin-in fa-lg white-text mr-md-5 mr-3 fa-2x">
 											{" "}

@@ -14,18 +14,25 @@
 
 
 
-.jumbotron {
-    opacity: 0.8;
-}
+// .jumbotron {
+//     opacity: 0.8;
+// }
 
+// body {
+//    background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/10/Coffee-Stain-Bicycle-Hi-Res-Wallpaper.jpg);
+//     padding: 22px;
+
+// }
 body {
-   background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/10/Coffee-Stain-Bicycle-Hi-Res-Wallpaper.jpg);
-    padding: 22px;
-
+    color: rgb(197, 67, 67);
+    background-color: lightGrey;
 }
 
 footer {
-    color: white;
+    color: rgb(197, 67, 67);
     text-align: center;
 }
 
+.btn {
+    background-color: red;
+}
